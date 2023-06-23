@@ -1,0 +1,2 @@
+export const INCREMENT = 'INCREMENT';
+export const SET_SHOW_RESULTS = 'SET_SHOW_RESULTS';
